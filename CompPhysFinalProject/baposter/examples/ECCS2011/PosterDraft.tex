@@ -144,26 +144,35 @@ A key aspect of the Game of Life is that it has equal neighbor weights, such tha
 
 We can use a symmetric initial configuration and the rule set $B34S23$ to demonstrate this bias. For equal weights on the left and an increase in weighting of the upper left corner on the right, we have the following evolutions.
 
- \includegraphics[width=0.4\linewidth]{SymmetricFinal}   vs.
+\centering
+\includegraphics[width=0.4\linewidth]{SymmetricFinal}   vs.
 \includegraphics[width=0.4\linewidth]{AsymmetricFinal}
 
-We can clearly see that the symmetric one will have a mean displacement of zero, while the asymmetric one will have a large mean displacement, but what is most interesting is the differing rates at which these two systems evolve, both from a number of alive cells and a speed perspective. If we look
+While it is clear from the above that the speed and mean distance has varied as a result of this bias, if we look at the cell ratio graph for these two simulations, we also see that the asymmetric generation rate is more than 4 times as large. 
+
+\centering
+\includegraphics[width=0.6\linewidth]{AliveCountChart}
+
 
 
 
 
 }
-\headerbox{Particle in a Box}{name=boundary,span=1,column=2,row=0}{
-	Another aspect of the Game of Life is that it is played on a periodic boundary. This allows for moving features, like gliders, and expanding features to increase without bound. One interesting alternative to this is to create a boundary that confines the features to a lattice of fixed size. For this simulation, we shall use 
-	We can use a symmetric initial configuration and the rule set $B34S23$ to demonstrate this bias. For equal weights, we have the following evolution.
+\headerbox{Boundary Conditions}{name=boundary,span=1,column=2,row=0}{
+	Another aspect of the Game of Life is that it is played on a periodic boundary. This allows for moving features, like gliders, and expanding features to increase without bound. One interesting alternative to this is to create a boundary that confines the features to a lattice of fixed size.
 	
-	\includegraphics[width=0.4\linewidth]{InitialCondition} $\to$ \includegraphics[width=0.4\linewidth]{SymmetricFinal}
+		\centering
+	\includegraphics[width=0.4\linewidth]{ConfinedCount}
+	\includegraphics[width=0.4\linewidth]{UnconfinedCount}
 	
-	We see that this preserves the symmetry of the system. However, if we bias the upper left hand corner, which corresponds to $w_1 = w_3 = 2, w_0 = 3$, then we see very different behavior.
 	
-	\includegraphics[width=0.4\linewidth]{InitialCondition} $\to$
-	\includegraphics[width=0.4\linewidth]{AsymmetricFinal}
+	Once again, we are able to use the alive cell ratio to see that there are some periods of time in which there is destructive interference in the confined lattice that doesn't exist in the periodic lattice case. We can see these by looking at a snapshot within the time period of deconstructive interference. \\
 	
+	\centering
+	\includegraphics[width=0.4\linewidth]{ConfinedSnapshot}
+	
+	This result is interesting because the Game of Life has been shown to serve as an excellent generator for emergent properties of physical systems. By seeing that the implementation of boundary walls within a cellular automaton leads to new dynamics, we have the potential to observe the emergence of behavior that exists in waveguides, particles in a box, and other more complex potential landscapes.
+
 	
 	
 	
@@ -171,21 +180,21 @@ We can clearly see that the symmetric one will have a mean displacement of zero,
 	
 }
 
-\headerbox{Degree Distribution Radically Changes}
-{name=degreeDistribution,span=2,column=1,below=neighbor,above=bottom}{
-Degree distributions are exceptionally sensitive to the length of the aggregation window. \textbf{The same dynamic network may produce a normal, lognormal or even power law distribution for different aggregation lenghts.} The digree distribution of the snapshot and cumulative network is inherently different. The following surfaces show the CPA model until it approaches the complete network.
-\vspace{-0.2em}
-\begin{center}
-	\includegraphics[angle=-90,width=0.49\linewidth]{CPA_3d_snapshot}
-	\includegraphics[angle=-90,width=0.49\linewidth]{CPA_3d_cumulative}
-\end{center}
-\vspace{-0.2em}
-Taking slices of the cumulative 3D charts shows us how the degree distribution changes. The log-log charts below show the progression of these changes as the aggregation window gets larger.
-\vspace{-0.2em}
-\begin{center}
-	\includegraphics[angle=-90,width=0.49\linewidth]{ER1_cumulativeDegrees}
-	\includegraphics[angle=-90,width=0.49\linewidth]{CPA_cumulativeDegrees}
-\end{center}
+\headerbox{Varying over the Rule Sets}
+{name=ruleset,span=2,column=1,below=neighbor}{
+So far, we have fixed our rule set as $B34S23$ in order to best isolate the features that we have been trying to demonstrate. However, there are 2*8! possible rule sets, which provides for the majority of the variation within the parameter space that we are looking at. We can learn about the behavior of variations in rule sets by comparing the model results of a collection of similar rule sets, $\{BnS25\}$, where $Bn = \{1,2,\dots, n\}$, and we shall let $n\in \{1,3,5,6,7\}$ so we can get a full spectrum. 
+
+\centering
+\includegraphics[width=0.19\linewidth]{11} \includegraphics[width=0.19\linewidth]{31}
+\includegraphics[width=0.19\linewidth]{51}\includegraphics[width=0.19\linewidth]{61}\includegraphics[width=0.19\linewidth]{81}
+
+We see that as we increase the number of $B$ terms, we increase the complexity of the pattern that emerge. This will play a crucial role in how we should interperet shifts in rule sets, since having too few rule set terms will lead to a model with no interesting clusters, whereas saturating a model with too many terms will lead to a highly structured, rigid result. This gives some clarity as to why the Game of Life takes the form it does, in which it has enough terms to lead to interesting dynamics without having so many that the result is constrained by having too many alive cells.
+}
+
+
+\headerbox{Conclusions}
+{name=conclusion,span=2,column=1,below=ruleset,above=bottom}{
+	We have demonstrated that there are interesting features of the parameter space that are absent from the Game of Life. Knowing that the Game of Life is able to simulate the emergent behavior of some physical systems, we are now able to simulate the behavior of more complex systems. Even more interestingly, if we think of the $B$ terms as terms that promote the "flipping" of a cell, and the $S$ terms as those that inhibit such flipping, we can begin to associate rule sets with some index $T$, which can be thought of in the same way as temperature was in the Ising model, such that a higher index leads to increased flipping of elements. If we learned anything from the Ising model, then it would be interesting to see if there is some concept of a phase transition in these systems, and whether this phase transition is related to the temperature at which $B3S23$ is associated. Creating such an association, we would be able to easily find all rule sets that accomplish the balancing act we discussed in the previous section. This would be very interesting to study in the future.
 }
 
 \end{poster}

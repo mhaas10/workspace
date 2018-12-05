@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  5 DEC 2018 07:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  5 DEC 2018 10:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -649,7 +649,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 
-Memory usage before: 2946&323820; after: 2918&323813; still untouched: 4671437
+Memory usage before: 2946&323821; after: 2918&323814; still untouched: 4671436
 Missing character: There is no ; in font nullfont!
 
 Underfull \hbox (badness 1320) in paragraph at lines 118--118
@@ -708,132 +708,94 @@ Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 
-Underfull \hbox (badness 3271) in paragraph at lines 155--155
+Underfull \hbox (badness 3271) in paragraph at lines 160--160
 \T1/cmr/m/n/10 it has equal neigh-bor weights, such that
  []
 
 
-Underfull \hbox (badness 4765) in paragraph at lines 155--155
+Underfull \hbox (badness 4765) in paragraph at lines 160--160
 \T1/cmr/m/n/10 that sym-met-ric con-fig-u-ra-tions will re-main
  []
 
 
-Underfull \hbox (badness 1048) in paragraph at lines 155--155
+Underfull \hbox (badness 1048) in paragraph at lines 160--160
 \T1/cmr/m/n/10 sym-met-ric. If we al-low vari-a-tion of these
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 155--155
+Underfull \hbox (badness 10000) in paragraph at lines 160--160
 
  []
 
 <SymmetricFinal.png, id=34, 262.9825pt x 254.9525pt>
 File: SymmetricFinal.png Graphic file (type png)
 <use SymmetricFinal.png>
-Package pdftex.def Info: SymmetricFinal.png  used on input line 155.
+Package pdftex.def Info: SymmetricFinal.png  used on input line 160.
 (pdftex.def)             Requested size: 83.17403pt x 80.63335pt.
 <AsymmetricFinal.png, id=35, 262.9825pt x 254.9525pt>
 File: AsymmetricFinal.png Graphic file (type png)
 <use AsymmetricFinal.png>
-Package pdftex.def Info: AsymmetricFinal.png  used on input line 155.
+Package pdftex.def Info: AsymmetricFinal.png  used on input line 160.
 (pdftex.def)             Requested size: 83.17403pt x 80.63335pt.
+<AliveCountChart.png, id=36, 415.5525pt x 280.04625pt>
+File: AliveCountChart.png Graphic file (type png)
+<use AliveCountChart.png>
+Package pdftex.def Info: AliveCountChart.png  used on input line 160.
+(pdftex.def)             Requested size: 124.76422pt x 84.07861pt.
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
-<InitialCondition.png, id=36, 262.9825pt x 254.9525pt>
-File: InitialCondition.png Graphic file (type png)
-<use InitialCondition.png>
-Package pdftex.def Info: InitialCondition.png  used on input line 172.
-(pdftex.def)             Requested size: 83.17403pt x 80.63335pt.
-File: SymmetricFinal.png Graphic file (type png)
-<use SymmetricFinal.png>
-Package pdftex.def Info: SymmetricFinal.png  used on input line 172.
-(pdftex.def)             Requested size: 83.17403pt x 80.63335pt.
-File: InitialCondition.png Graphic file (type png)
-<use InitialCondition.png>
-Package pdftex.def Info: InitialCondition.png  used on input line 172.
-(pdftex.def)             Requested size: 83.17403pt x 80.63335pt.
-File: AsymmetricFinal.png Graphic file (type png)
-<use AsymmetricFinal.png>
-Package pdftex.def Info: AsymmetricFinal.png  used on input line 172.
-(pdftex.def)             Requested size: 83.17403pt x 80.63335pt.
+<ConfinedCount.png, id=37, 415.5525pt x 280.04625pt>
+File: ConfinedCount.png Graphic file (type png)
+<use ConfinedCount.png>
+Package pdftex.def Info: ConfinedCount.png  used on input line 181.
+(pdftex.def)             Requested size: 83.17403pt x 56.05098pt.
+<UnconfinedCount.png, id=38, 415.5525pt x 280.04625pt>
+File: UnconfinedCount.png Graphic file (type png)
+<use UnconfinedCount.png>
+Package pdftex.def Info: UnconfinedCount.png  used on input line 181.
+(pdftex.def)             Requested size: 83.17403pt x 56.05098pt.
+<ConfinedSnapshot.png, id=39, 289.08pt x 280.04625pt>
+File: ConfinedSnapshot.png Graphic file (type png)
+<use ConfinedSnapshot.png>
+Package pdftex.def Info: ConfinedSnapshot.png  used on input line 181.
+(pdftex.def)             Requested size: 83.17403pt x 80.57462pt.
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
-Package epstopdf Info: Source file: <pix/CPA_3d_snapshot.eps>
-(epstopdf)                    date: 2011-09-16 06:21:07
-(epstopdf)                    size: 330439 bytes
-(epstopdf)             Output file: <pix/CPA_3d_snapshot-eps-converted-to.pdf>
-(epstopdf)                    date: 2011-09-16 06:21:07
-(epstopdf)                    size: 90686 bytes
-(epstopdf)             Command: <repstopdf --outfile=pix/CPA_3d_snapshot-eps-co
-nverted-to.pdf pix/CPA_3d_snapshot.eps>
-(epstopdf)             \includegraphics on input line 189.
-Package epstopdf Info: Output file is already uptodate.
-<pix/CPA_3d_snapshot-eps-converted-to.pdf, id=37, 561.09625pt x 809.0225pt>
-File: pix/CPA_3d_snapshot-eps-converted-to.pdf Graphic file (type pdf)
-<use pix/CPA_3d_snapshot-eps-converted-to.pdf>
-Package pdftex.def Info: pix/CPA_3d_snapshot-eps-converted-to.pdf  used on inpu
-t line 189.
-(pdftex.def)             Requested size: 561.09488pt x 809.02054pt.
-Package epstopdf Info: Source file: <pix/CPA_3d_cumulative.eps>
-(epstopdf)                    date: 2011-09-16 06:21:07
-(epstopdf)                    size: 336487 bytes
-(epstopdf)             Output file: <pix/CPA_3d_cumulative-eps-converted-to.pdf
->
-(epstopdf)                    date: 2011-09-16 06:21:07
-(epstopdf)                    size: 90265 bytes
-(epstopdf)             Command: <repstopdf --outfile=pix/CPA_3d_cumulative-eps-
-converted-to.pdf pix/CPA_3d_cumulative.eps>
-(epstopdf)             \includegraphics on input line 189.
-Package epstopdf Info: Output file is already uptodate.
-<pix/CPA_3d_cumulative-eps-converted-to.pdf, id=38, 561.09625pt x 809.0225pt>
-File: pix/CPA_3d_cumulative-eps-converted-to.pdf Graphic file (type pdf)
-<use pix/CPA_3d_cumulative-eps-converted-to.pdf>
-Package pdftex.def Info: pix/CPA_3d_cumulative-eps-converted-to.pdf  used on in
-put line 189.
-(pdftex.def)             Requested size: 561.09488pt x 809.02054pt.
-Package epstopdf Info: Source file: <pix/ER1_cumulativeDegrees.eps>
-(epstopdf)                    date: 2011-09-16 06:21:07
-(epstopdf)                    size: 14115 bytes
-(epstopdf)             Output file: <pix/ER1_cumulativeDegrees-eps-converted-to
-.pdf>
-(epstopdf)                    date: 2011-09-16 06:21:07
-(epstopdf)                    size: 10947 bytes
-(epstopdf)             Command: <repstopdf --outfile=pix/ER1_cumulativeDegrees-
-eps-converted-to.pdf pix/ER1_cumulativeDegrees.eps>
-(epstopdf)             \includegraphics on input line 189.
-Package epstopdf Info: Output file is already uptodate.
-<pix/ER1_cumulativeDegrees-eps-converted-to.pdf, id=39, 561.09625pt x 809.0225p
-t>
-File: pix/ER1_cumulativeDegrees-eps-converted-to.pdf Graphic file (type pdf)
-<use pix/ER1_cumulativeDegrees-eps-converted-to.pdf>
-Package pdftex.def Info: pix/ER1_cumulativeDegrees-eps-converted-to.pdf  used o
-n input line 189.
-(pdftex.def)             Requested size: 561.09488pt x 809.02054pt.
-Package epstopdf Info: Source file: <pix/CPA_cumulativeDegrees.eps>
-(epstopdf)                    date: 2011-09-16 06:21:07
-(epstopdf)                    size: 19437 bytes
-(epstopdf)             Output file: <pix/CPA_cumulativeDegrees-eps-converted-to
-.pdf>
-(epstopdf)                    date: 2011-09-16 06:21:07
-(epstopdf)                    size: 12590 bytes
-(epstopdf)             Command: <repstopdf --outfile=pix/CPA_cumulativeDegrees-
-eps-converted-to.pdf pix/CPA_cumulativeDegrees.eps>
-(epstopdf)             \includegraphics on input line 189.
-Package epstopdf Info: Output file is already uptodate.
-<pix/CPA_cumulativeDegrees-eps-converted-to.pdf, id=40, 561.09625pt x 809.0225p
-t>
-File: pix/CPA_cumulativeDegrees-eps-converted-to.pdf Graphic file (type pdf)
-<use pix/CPA_cumulativeDegrees-eps-converted-to.pdf>
-Package pdftex.def Info: pix/CPA_cumulativeDegrees-eps-converted-to.pdf  used o
-n input line 189.
-(pdftex.def)             Requested size: 561.09488pt x 809.02054pt.
+<11.png, id=40, 289.08pt x 280.04625pt>
+File: 11.png Graphic file (type png)
+<use 11.png>
+Package pdftex.def Info: 11.png  used on input line 192.
+(pdftex.def)             Requested size: 82.81667pt x 80.2285pt.
+<31.png, id=41, 289.08pt x 280.04625pt>
+File: 31.png Graphic file (type png)
+<use 31.png>
+Package pdftex.def Info: 31.png  used on input line 192.
+(pdftex.def)             Requested size: 82.81667pt x 80.2285pt.
+<51.png, id=42, 289.08pt x 280.04625pt>
+File: 51.png Graphic file (type png)
+<use 51.png>
+Package pdftex.def Info: 51.png  used on input line 192.
+(pdftex.def)             Requested size: 82.81667pt x 80.2285pt.
+<61.png, id=43, 289.08pt x 280.04625pt>
+File: 61.png Graphic file (type png)
+<use 61.png>
+Package pdftex.def Info: 61.png  used on input line 192.
+(pdftex.def)             Requested size: 82.81667pt x 80.2285pt.
+<81.png, id=44, 289.08pt x 280.04625pt>
+File: 81.png Graphic file (type png)
+<use 81.png>
+Package pdftex.def Info: 81.png  used on input line 192.
+(pdftex.def)             Requested size: 82.81667pt x 80.2285pt.
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 
-Overfull \hbox (2.22534pt too wide) in paragraph at lines 105--191
+Overfull \hbox (2.22534pt too wide) in paragraph at lines 105--200
 [][]  [] 
  []
 
@@ -841,21 +803,20 @@ Overfull \hbox (2.22534pt too wide) in paragraph at lines 105--191
 
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./pix/b
 ackground-eps-converted-to.pdf> <./EvolutionTable.png> <./SymmetricFinal.png> <
-./AsymmetricFinal.png> <./InitialCondition.png> <./pix/CPA_3d_snapshot-eps-conv
-erted-to.pdf> <./pix/CPA_3d_cumulative-eps-converted-to.pdf> <./pix/ER1_cumulat
-iveDegrees-eps-converted-to.pdf> <./pix/CPA_cumulativeDegrees-eps-converted-to.
-pdf>]
-Memory usage before: 33750&334812; after: 17762&330401; still untouched: 462501
-1
+./AsymmetricFinal.png> <./AliveCountChart.png> <./ConfinedCount.png> <./Unconfi
+nedCount.png> <./ConfinedSnapshot.png> <./11.png> <./31.png> <./51.png> <./61.p
+ng> <./81.png>]
+Memory usage before: 39158&340001; after: 20576&334102; still untouched: 461474
+0
 (./PosterDraft.aux) ) 
 Here is how much of TeX's memory you used:
- 14468 strings out of 492649
- 307095 string characters out of 6129622
- 374989 words of memory out of 5000000
- 18043 multiletter control sequences out of 15000+600000
+ 14560 strings out of 492649
+ 307746 string characters out of 6129622
+ 385260 words of memory out of 5000000
+ 18131 multiletter control sequences out of 15000+600000
  11258 words of font info for 24 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,11n,76p,635b,958s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,9n,76p,1105b,958s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/cm-sup
 er/cm-super-t1.enc}</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmex10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfon
@@ -870,10 +831,10 @@ fb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb
 ></usr/local/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><
 /usr/local/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></u
 sr/local/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfti0800.pfb>
-Output written on PosterDraft.pdf (1 page, 545390 bytes).
+Output written on PosterDraft.pdf (1 page, 769621 bytes).
 PDF statistics:
- 143 PDF objects out of 1000 (max. 8388607)
- 87 compressed objects within 1 object stream
+ 119 PDF objects out of 1000 (max. 8388607)
+ 59 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 160 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 180 words of extra memory for PDF output out of 10000 (max. 10000000)
 
