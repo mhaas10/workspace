@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  5 DEC 2018 10:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  5 DEC 2018 13:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -559,18 +559,18 @@ e
 (./PosterDraft.aux)
 \openout1 = `PosterDraft.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
 
 (/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -629,65 +629,112 @@ Package epstopdf Info: Source file: <pix/background.eps>
 (epstopdf)                    size: 59154 bytes
 (epstopdf)             Command: <repstopdf --outfile=pix/background-eps-convert
 ed-to.pdf pix/background.eps>
-(epstopdf)             \includegraphics on input line 105.
+(epstopdf)             \includegraphics on input line 106.
 Package epstopdf Info: Output file is already uptodate.
 <pix/background-eps-converted-to.pdf, id=29, 1393.205pt x 916.42375pt>
 File: pix/background-eps-converted-to.pdf Graphic file (type pdf)
 <use pix/background-eps-converted-to.pdf>
 Package pdftex.def Info: pix/background-eps-converted-to.pdf  used on input lin
-e 105.
+e 106.
 (pdftex.def)             Requested size: 1610.4004pt x 1059.24591pt.
-LaTeX Font Info:    Try loading font information for T1+cmss on input line 105.
+Missing character: There is no E in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 106.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/base/t1cmss.fd
 File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 105.
+(Font)              <7> on input line 106.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 105.
+(Font)              <5> on input line 106.
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 
-Memory usage before: 2946&323821; after: 2918&323814; still untouched: 4671436
+Memory usage before: 3357&324186; after: 3329&324179; still untouched: 4670073
 Missing character: There is no ; in font nullfont!
 
-Underfull \hbox (badness 1320) in paragraph at lines 118--118
+Underfull \hbox (badness 1320) in paragraph at lines 119--119
 []\T1/cmr/m/n/10 The prin-ci-ple of a cel-lu-lar au-tomata is to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--118
+Underfull \hbox (badness 10000) in paragraph at lines 119--119
 
  []
 
 <EvolutionTable.png, id=32, 557.08125pt x 162.6075pt>
 File: EvolutionTable.png Graphic file (type png)
 <use EvolutionTable.png>
-Package pdftex.def Info: EvolutionTable.png  used on input line 118.
+Package pdftex.def Info: EvolutionTable.png  used on input line 119.
 (pdftex.def)             Requested size: 207.93826pt x 60.6948pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--118
+Underfull \hbox (badness 10000) in paragraph at lines 119--119
 
  []
 
 
-Underfull \hbox (badness 1371) in paragraph at lines 118--118
+Underfull \hbox (badness 1371) in paragraph at lines 119--119
 []\T1/cmr/m/n/10 All lat-tice sites are evolved si-mul-ta-ne-ously,
  []
 
 
-Underfull \hbox (badness 3260) in paragraph at lines 118--118
+Underfull \hbox (badness 3260) in paragraph at lines 119--119
 \T1/cmr/m/n/10 ply these rules to some ini-tial con-di-tion.
  []
 
 
-Underfull \hbox (badness 2426) in paragraph at lines 118--118
+Underfull \hbox (badness 2426) in paragraph at lines 119--119
 \T1/cmr/m/n/10 We can la-bel a game with the ter-mi-nol-
  []
 
 
-Underfull \hbox (badness 5133) in paragraph at lines 118--118
+Underfull \hbox (badness 5133) in paragraph at lines 119--119
 \T1/cmr/m/n/10 ogy of $\OML/cmm/m/it/10 B\OT1/cmr/m/n/10 #[]#[]\OML/cmm/m/it/10
  :::=S\OT1/cmr/m/n/10 #[]#[]\OML/cmm/m/it/10 :::$\T1/cmr/m/n/10 , where $\OML/c
 mm/m/it/10 B \OT1/cmr/m/n/10 =
@@ -697,7 +744,7 @@ Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 
-Underfull \hbox (badness 10000) in paragraph at lines 125--125
+Underfull \hbox (badness 10000) in paragraph at lines 126--126
 
  []
 
@@ -708,39 +755,39 @@ Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 
-Underfull \hbox (badness 3271) in paragraph at lines 160--160
+Underfull \hbox (badness 3271) in paragraph at lines 161--161
 \T1/cmr/m/n/10 it has equal neigh-bor weights, such that
  []
 
 
-Underfull \hbox (badness 4765) in paragraph at lines 160--160
+Underfull \hbox (badness 4765) in paragraph at lines 161--161
 \T1/cmr/m/n/10 that sym-met-ric con-fig-u-ra-tions will re-main
  []
 
 
-Underfull \hbox (badness 1048) in paragraph at lines 160--160
+Underfull \hbox (badness 1048) in paragraph at lines 161--161
 \T1/cmr/m/n/10 sym-met-ric. If we al-low vari-a-tion of these
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 160--160
+Underfull \hbox (badness 10000) in paragraph at lines 161--161
 
  []
 
 <SymmetricFinal.png, id=34, 262.9825pt x 254.9525pt>
 File: SymmetricFinal.png Graphic file (type png)
 <use SymmetricFinal.png>
-Package pdftex.def Info: SymmetricFinal.png  used on input line 160.
+Package pdftex.def Info: SymmetricFinal.png  used on input line 161.
 (pdftex.def)             Requested size: 83.17403pt x 80.63335pt.
 <AsymmetricFinal.png, id=35, 262.9825pt x 254.9525pt>
 File: AsymmetricFinal.png Graphic file (type png)
 <use AsymmetricFinal.png>
-Package pdftex.def Info: AsymmetricFinal.png  used on input line 160.
+Package pdftex.def Info: AsymmetricFinal.png  used on input line 161.
 (pdftex.def)             Requested size: 83.17403pt x 80.63335pt.
 <AliveCountChart.png, id=36, 415.5525pt x 280.04625pt>
 File: AliveCountChart.png Graphic file (type png)
 <use AliveCountChart.png>
-Package pdftex.def Info: AliveCountChart.png  used on input line 160.
+Package pdftex.def Info: AliveCountChart.png  used on input line 161.
 (pdftex.def)             Requested size: 124.76422pt x 84.07861pt.
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
@@ -748,17 +795,17 @@ Missing character: There is no ; in font nullfont!
 <ConfinedCount.png, id=37, 415.5525pt x 280.04625pt>
 File: ConfinedCount.png Graphic file (type png)
 <use ConfinedCount.png>
-Package pdftex.def Info: ConfinedCount.png  used on input line 181.
+Package pdftex.def Info: ConfinedCount.png  used on input line 182.
 (pdftex.def)             Requested size: 83.17403pt x 56.05098pt.
 <UnconfinedCount.png, id=38, 415.5525pt x 280.04625pt>
 File: UnconfinedCount.png Graphic file (type png)
 <use UnconfinedCount.png>
-Package pdftex.def Info: UnconfinedCount.png  used on input line 181.
+Package pdftex.def Info: UnconfinedCount.png  used on input line 182.
 (pdftex.def)             Requested size: 83.17403pt x 56.05098pt.
 <ConfinedSnapshot.png, id=39, 289.08pt x 280.04625pt>
 File: ConfinedSnapshot.png Graphic file (type png)
 <use ConfinedSnapshot.png>
-Package pdftex.def Info: ConfinedSnapshot.png  used on input line 181.
+Package pdftex.def Info: ConfinedSnapshot.png  used on input line 182.
 (pdftex.def)             Requested size: 83.17403pt x 80.57462pt.
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
@@ -766,27 +813,27 @@ Missing character: There is no ; in font nullfont!
 <11.png, id=40, 289.08pt x 280.04625pt>
 File: 11.png Graphic file (type png)
 <use 11.png>
-Package pdftex.def Info: 11.png  used on input line 192.
+Package pdftex.def Info: 11.png  used on input line 193.
 (pdftex.def)             Requested size: 82.81667pt x 80.2285pt.
 <31.png, id=41, 289.08pt x 280.04625pt>
 File: 31.png Graphic file (type png)
 <use 31.png>
-Package pdftex.def Info: 31.png  used on input line 192.
+Package pdftex.def Info: 31.png  used on input line 193.
 (pdftex.def)             Requested size: 82.81667pt x 80.2285pt.
 <51.png, id=42, 289.08pt x 280.04625pt>
 File: 51.png Graphic file (type png)
 <use 51.png>
-Package pdftex.def Info: 51.png  used on input line 192.
+Package pdftex.def Info: 51.png  used on input line 193.
 (pdftex.def)             Requested size: 82.81667pt x 80.2285pt.
 <61.png, id=43, 289.08pt x 280.04625pt>
 File: 61.png Graphic file (type png)
 <use 61.png>
-Package pdftex.def Info: 61.png  used on input line 192.
+Package pdftex.def Info: 61.png  used on input line 193.
 (pdftex.def)             Requested size: 82.81667pt x 80.2285pt.
 <81.png, id=44, 289.08pt x 280.04625pt>
 File: 81.png Graphic file (type png)
 <use 81.png>
-Package pdftex.def Info: 81.png  used on input line 192.
+Package pdftex.def Info: 81.png  used on input line 193.
 (pdftex.def)             Requested size: 82.81667pt x 80.2285pt.
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
@@ -795,7 +842,7 @@ Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 
-Overfull \hbox (2.22534pt too wide) in paragraph at lines 105--200
+Overfull \hbox (2.22534pt too wide) in paragraph at lines 106--201
 [][]  [] 
  []
 
@@ -806,17 +853,17 @@ ackground-eps-converted-to.pdf> <./EvolutionTable.png> <./SymmetricFinal.png> <
 ./AsymmetricFinal.png> <./AliveCountChart.png> <./ConfinedCount.png> <./Unconfi
 nedCount.png> <./ConfinedSnapshot.png> <./11.png> <./31.png> <./51.png> <./61.p
 ng> <./81.png>]
-Memory usage before: 39158&340001; after: 20576&334102; still untouched: 461474
-0
+Memory usage before: 39008&339728; after: 20511&334016; still untouched: 461586
+1
 (./PosterDraft.aux) ) 
 Here is how much of TeX's memory you used:
- 14560 strings out of 492649
- 307746 string characters out of 6129622
- 385260 words of memory out of 5000000
- 18131 multiletter control sequences out of 15000+600000
- 11258 words of font info for 24 fonts, out of 8000000 for 9000
+ 14564 strings out of 492649
+ 308002 string characters out of 6129622
+ 384139 words of memory out of 5000000
+ 18136 multiletter control sequences out of 15000+600000
+ 10572 words of font info for 23 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,9n,76p,1105b,958s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,9n,76p,1087b,956s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/cm-sup
 er/cm-super-t1.enc}</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmex10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfon
@@ -829,12 +876,11 @@ sy10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfbx10
 .pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfbx2488.p
 fb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb
 ></usr/local/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><
-/usr/local/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></u
-sr/local/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfti0800.pfb>
-Output written on PosterDraft.pdf (1 page, 769621 bytes).
+/usr/local/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb>
+Output written on PosterDraft.pdf (1 page, 742380 bytes).
 PDF statistics:
- 119 PDF objects out of 1000 (max. 8388607)
- 59 compressed objects within 1 object stream
+ 115 PDF objects out of 1000 (max. 8388607)
+ 56 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  180 words of extra memory for PDF output out of 10000 (max. 10000000)
 
